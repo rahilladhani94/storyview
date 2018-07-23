@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_height">100dp</dimen>
+    <dimen name="imagebutton_height">280dp</dimen>
+    <dimen name="messageedt_height">200dp</dimen>
+    <dimen name="bcardlogo_height">160dp</dimen>
+    <dimen name="cardimage_height">220dp</dimen>
+    <dimen name="cardlayout_height">280dp</dimen>
+    <dimen name="profilepic_width">120dp</dimen>
+    <dimen name="profilepic_height">120dp</dimen>
+</resources>
